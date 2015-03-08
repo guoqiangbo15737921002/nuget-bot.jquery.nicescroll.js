@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
 	<metadata>
-		<id>jquery.nicescroll.js</id>
+		<id>nuget-bot.jquery.nicescroll.js</id>
 		<version>3.4.0</version>
 		<authors>InuYaksa</authors>
 		<title>nuget-bot.jquery.nicescroll.js</title>
