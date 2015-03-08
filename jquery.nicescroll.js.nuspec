@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+	<metadata>
+		<id>jquery.nicescroll.js</id>
+		<version>3.4.0</version>
+		<authors>InuYaksa</authors>
+		<title>jquery.nicescroll.js</title>
+		<description>Nicescroll is a jquery plugin, for nice scrollbars with a very similar ios/mobile style.</description>
+		<language>en-US</language>
+		<projectUrl>https://github.com/inuyaksa/jquery.nicescroll</projectUrl>
+		<licenseUrl>http://opensource.org/licenses/mit-license.php</licenseUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<copyright>Copyright 2011-14 InuYaksa</copyright>
+		<tags>scrolling javascript</tags>
+		<dependencies></dependencies>
+	</metadata>
+	<files>
+		<file src="**\*.*" target="content" /> 
+	</files>
+</package>
