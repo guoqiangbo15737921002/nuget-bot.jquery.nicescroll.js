@@ -4,7 +4,7 @@
 		<id>jquery.nicescroll.js</id>
 		<version>3.4.0</version>
 		<authors>InuYaksa</authors>
-		<title>jquery.nicescroll.js</title>
+		<title>nuget-bot.jquery.nicescroll.js</title>
 		<description>Nicescroll is a jquery plugin, for nice scrollbars with a very similar ios/mobile style.</description>
 		<language>en-US</language>
 		<projectUrl>https://github.com/inuyaksa/jquery.nicescroll</projectUrl>
